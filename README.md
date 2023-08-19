@@ -177,7 +177,6 @@ console and the program will continue to execute.
 ---
 
 ## Using `ipdb` to Debug
-
 In addition to _exploring_ code inside `ipdb`, you can also manipulate variables
 and try code out. This is where `ipdb` really becomes helpful for debugging. If
 you have a function that isn't doing what it's supposed to do, instead of making
